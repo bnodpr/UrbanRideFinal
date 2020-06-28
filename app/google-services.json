@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264907176532",
+    "firebase_url": "https://urbanride-29ce5.firebaseio.com",
+    "project_id": "urbanride-29ce5",
+    "storage_bucket": "urbanride-29ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264907176532:android:b29809d69ea3f437b9cbc1",
+        "android_client_info": {
+          "package_name": "com.example.urbanride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264907176532-nu0dp5nm3nui10hl5dg6682mrfbjfmn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbanride",
+            "certificate_hash": "52af2a3ed481a80f828293bddd07734401d1acfa"
+          }
+        },
+        {
+          "client_id": "264907176532-hip3n6rtv7hlg81qu2epb5r1fh7faphc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpz_NHkfunvBNX_ZNQpV4wbBYb0Rdo87E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264907176532-hip3n6rtv7hlg81qu2epb5r1fh7faphc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
